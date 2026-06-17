@@ -1,0 +1,6 @@
+{
+  "name": "BC WMS Mobile",
+  "description": "Enterprise Warehouse Management System (WMS) for Microsoft Dynamics 365 Business Central with online sync, offline capability, barcode scanning, and WMS Copilot AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

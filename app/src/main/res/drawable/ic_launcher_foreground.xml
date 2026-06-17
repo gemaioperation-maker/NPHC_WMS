@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Isometric Box Shadow -->
+    <path
+        android:fillColor="#1A000000"
+        android:pathData="M 32,71 L 54,82 L 76,71 L 54,62 Z" />
+
+    <!-- Isometric Cargo Box - Left Side (Main shade) -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M 32,46 L 54,57 L 54,77 L 32,66 Z" />
+
+    <!-- Isometric Cargo Box - Right Side (Contrast shade) -->
+    <path
+        android:fillColor="#0F766E"
+        android:pathData="M 76,46 L 54,57 L 54,77 L 76,66 Z" />
+
+    <!-- Isometric Cargo Box - Top Face -->
+    <path
+        android:fillColor="#14B8A6"
+        android:pathData="M 54,35 L 76,46 L 54,57 L 32,46 Z" />
+
+    <!-- Packaging tape on Top Face -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 50,37 L 58,41 L 50,45 L 42,41 Z" />
+
+    <!-- Packaging tape on Left Side -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M 42,51 L 46,53 L 46,73 L 42,71 Z" />
+
+    <!-- Barcode Scanner Red Laser Beam (Industrial Look) -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M 22,50 L 86,50 L 86,52 L 22,52 Z" />
+
+    <!-- Laser Beam Glow -->
+    <path
+        android:fillColor="#33EF4444"
+        android:pathData="M 22,46 L 86,46 L 86,56 L 22,56 Z" />
+</vector>
